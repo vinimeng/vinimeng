@@ -1,4 +1,11 @@
-### Hi there 👋
+*PT-BR:*
+### Opa, bem-vindo ao meu perfil!
+  Me chamo Vinícius Meng, sou desenvolvedor fullstack.
+  Tenho afinidade maior com as seguintes linguagens:
+    * PHP
+    * Javascript
+    * Java
+
 
 <!--
 **vinimeng/vinimeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
