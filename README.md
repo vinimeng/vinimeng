@@ -9,7 +9,7 @@ Tenho afinidade maior com as seguintes linguagens:
 Mas estou sempre a procura de novos conhecimentos! 😄
   
 *EN-US:*
-### Hey there, welcomed to my profile!
+### Hey there, welcome to my profile!
 My name is Vinícius Meng, I'm a fullstack developer.  
 I have a greater affinity with the following languages:  
   - PHP  
