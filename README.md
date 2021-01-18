@@ -18,6 +18,15 @@ I have a greater affinity with the following languages:
   
 But I am always looking for new knowledge! 😄
 
+<p align="left">
+<a href="mailto:viniciusmeng2@gmail.com" alt="Gmail">
+<img src="https://img.shields.io/badge/-viniciusmeng2@gmail.com-56100c?style=flat-square&labelColor=56100c&logo=gmail&logoCo" /></a>
+  
+<a href="https://www.linkedin.com/in/vinicius-meng/" alt="Linkedin">
+<img src="https://img.shields.io/badge/-Vin%C3%ADcius%20Meng-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iuricode" /></a>
+ 
+</p>
+
 <!--
 **vinimeng/vinimeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
