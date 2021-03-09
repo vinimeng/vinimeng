@@ -1,6 +1,6 @@
 *PT-BR:*
 ### Opa, bem-vindo ao meu perfil!
-Me chamo Vinícius Meng, sou desenvolvedor fullstack.  
+Me chamo Vinícius Meng, sou desenvolvedor full stack.  
 Tenho afinidade maior com as seguintes linguagens:
   - PHP  
   - Javascript  
@@ -10,7 +10,7 @@ Mas estou sempre a procura de novos conhecimentos! 😄
   
 *EN-US:*
 ### Hey there, welcome to my profile!
-My name is Vinícius Meng, I'm a fullstack developer.  
+My name is Vinícius Meng, I'm a full stack developer.  
 I have a greater affinity with the following languages:  
   - PHP  
   - Javascript  
