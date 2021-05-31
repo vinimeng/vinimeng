@@ -18,7 +18,7 @@ I have a greater affinity with the following languages:
   
 But I am always looking for new knowledge! 😄
 
-[![ViniMeng's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinimeng?theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![ViniMeng's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinimeng&theme=onedark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="left">
 <a href="mailto:viniciusmeng2@gmail.com" alt="Gmail">
