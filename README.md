@@ -17,10 +17,10 @@ I have a greater affinity with the following languages:
   - Java  
   
 But I am always looking for new knowledge! 😄
-
+<!--
 [![ViniMeng's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinimeng&theme=onedark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinimeng&layout=compact&theme=onedark&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-
+-->
 <p align="left">
 <a href="mailto:viniciusmeng2@gmail.com" alt="Gmail">
 <img src="https://img.shields.io/badge/-viniciusmeng2@gmail.com-56100c?style=flat-square&labelColor=56100c&logo=gmail&logoCo" /></a>
